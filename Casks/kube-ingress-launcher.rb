@@ -1,8 +1,8 @@
 cask "kube-ingress-launcher" do
-  version "0.1.0"
+  version "0.1.1"
   
   url "https://github.com/wasilak/kube-ingress-launcher/releases/download/v#{version}/kube-ingress-launcher-#{version}-universal-apple-darwin.dmg"
-  sha256 "61ca94a479189ca730aed3875d46e759d451705e72fa10822039b2780706bec7"
+  sha256 "c7b87b34ac0fb48c845d346b6599e960a6543849df2badc60a8863db546cc62b"
   
   name "Kube Ingress Launcher"
   desc "Desktop launcher for quickly searching and opening Kubernetes ingress resources"
